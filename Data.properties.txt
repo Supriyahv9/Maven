@@ -1,0 +1,15 @@
+browser 				Chrome
+url 					https://demo.vtiger.com/vtigercrm/
+CampaignName 			Wipro
+targetaudience 			50
+sponsor					Intel
+targetsize				100
+Date					4/10/2023
+numsent					20
+expectedsalescount		100
+expectedresponsecount	70
+actualsalescount		40
+actualresponsecount		20
+description				Wipro is an Indian multinational corporation that provides information technology, consultant and business process services.
+budgetcost				200000
+expectedroi				100000
